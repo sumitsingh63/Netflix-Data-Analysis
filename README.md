@@ -54,21 +54,33 @@ After cleaning and exploding the genre column, the dataset contains 25552 rows a
 columns.
 
 DATA CLEANING AND PREPROCESSING
+
 Key steps involved:
+
 • Handled missing values in columns like popularity and genre.
+
 • Converted release dates to year format.
+
 • Split multiple genres for individual analysis.
+
 • Filtered dataset to exclude null popularity or vote entries for accuracy.
+
 EXPLORATORY DATA ANALYSIS
+
 To uncover patterns and trends in the Netflix dataset, a comprehensive Exploratory Data 
 Analysis (EDA) was conducted. This included data cleaning, visualization, and statistical 
 analysis to derive insights related to genres, popularity, and temporal trends.
 This project aims to address these challenges by performing data mining on the Netflix 
 dataset to:
+
 • Discover the most frequent genres on the platform.
+
 • Analyze popularity and voting patterns across different genres.
+
 • Identify the most and least popular movies.
+
 • Determine which years saw the highest number of content releases.
+
 By applying data analysis techniques to this dataset, the project seeks to provide actionable 
 insights that can benefit stakeholders in content production, marketing, and 
 recommendation systems.
